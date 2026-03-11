@@ -1,0 +1,17 @@
+H:\УП\Задание 1\Задание 1\bin\Debug\net8.0-windows\Задание 1.exe
+H:\УП\Задание 1\Задание 1\bin\Debug\net8.0-windows\Задание 1.deps.json
+H:\УП\Задание 1\Задание 1\bin\Debug\net8.0-windows\Задание 1.runtimeconfig.json
+H:\УП\Задание 1\Задание 1\bin\Debug\net8.0-windows\Задание 1.dll
+H:\УП\Задание 1\Задание 1\bin\Debug\net8.0-windows\Задание 1.pdb
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\Задание_1.Form1.resources
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\Задание_1.Properties.Resources.resources
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\Задание 1.csproj.GenerateResource.cache
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\Задание 1.AssemblyInfoInputs.cache
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\Задание 1.AssemblyInfo.cs
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\Задание 1.csproj.CoreCompileInputs.cache
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\Задание 1.dll
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\refint\Задание 1.dll
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\Задание 1.pdb
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\Задание 1.genruntimeconfig.cache
+H:\УП\Задание 1\Задание 1\obj\Debug\net8.0-windows\ref\Задание 1.dll
