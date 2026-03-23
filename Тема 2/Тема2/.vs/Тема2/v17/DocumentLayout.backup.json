@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u0423\u041F\\\u0422\u0435\u043C\u0430 2\\\u0422\u0435\u043C\u04302\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3797BC69-6C15-4D68-A91F-E07ADBC472C8}|\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302.csproj|h:\\\u0443\u043F\\\u0442\u0435\u043C\u0430 2\\\u0442\u0435\u043C\u04302\\\u0442\u0435\u043C\u04302\\factorcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3797BC69-6C15-4D68-A91F-E07ADBC472C8}|\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302.csproj|solutionrelative:\u0442\u0435\u043C\u04302\\factorcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797BC69-6C15-4D68-A91F-E07ADBC472C8}|\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302.csproj|h:\\\u0443\u043F\\\u0442\u0435\u043C\u0430 2\\\u0442\u0435\u043C\u04302\\\u0442\u0435\u043C\u04302\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3797BC69-6C15-4D68-A91F-E07ADBC472C8}|\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302.csproj|solutionrelative:\u0442\u0435\u043C\u04302\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797BC69-6C15-4D68-A91F-E07ADBC472C8}|\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302.csproj|h:\\\u0443\u043F\\\u0442\u0435\u043C\u0430 2\\\u0442\u0435\u043C\u04302\\\u0442\u0435\u043C\u04302\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3797BC69-6C15-4D68-A91F-E07ADBC472C8}|\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302.csproj|solutionrelative:\u0442\u0435\u043C\u04302\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE9DD68-0829-47D0-845F-5DBF04FE03BC}|UnitTestProject1\\UnitTestProject1.csproj|h:\\\u0443\u043F\\\u0442\u0435\u043C\u0430 2\\\u0442\u0435\u043C\u04302\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE9DD68-0829-47D0-845F-5DBF04FE03BC}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\\u0423\u041F\\\u0422\u0435\u043C\u0430 2\\\u0422\u0435\u043C\u04302\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "H:\\\u0423\u041F\\\u0422\u0435\u043C\u0430 2\\\u0422\u0435\u043C\u04302\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T08:15:04.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactorCalculator.cs",
+              "DocumentMoniker": "H:\\\u0423\u041F\\\u0422\u0435\u043C\u0430 2\\\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302\\FactorCalculator.cs",
+              "RelativeDocumentMoniker": "\u0422\u0435\u043C\u04302\\FactorCalculator.cs",
+              "ToolTip": "H:\\\u0423\u041F\\\u0422\u0435\u043C\u0430 2\\\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302\\FactorCalculator.cs",
+              "RelativeToolTip": "\u0422\u0435\u043C\u04302\\FactorCalculator.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T08:14:12.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\\u0423\u041F\\\u0422\u0435\u043C\u0430 2\\\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0422\u0435\u043C\u04302\\Form1.cs",
+              "ToolTip": "H:\\\u0423\u041F\\\u0422\u0435\u043C\u0430 2\\\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302\\Form1.cs",
+              "RelativeToolTip": "\u0422\u0435\u043C\u04302\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T08:13:32.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\\u0423\u041F\\\u0422\u0435\u043C\u0430 2\\\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0422\u0435\u043C\u04302\\Form1.cs",
+              "ToolTip": "H:\\\u0423\u041F\\\u0422\u0435\u043C\u0430 2\\\u0422\u0435\u043C\u04302\\\u0422\u0435\u043C\u04302\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0422\u0435\u043C\u04302\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T08:13:27.532Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

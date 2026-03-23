@@ -1,0 +1,10 @@
+H:\УП\Тема 2\Тема2\Тема2\bin\Debug\Тема2.exe.config
+H:\УП\Тема 2\Тема2\Тема2\bin\Debug\Тема2.exe
+H:\УП\Тема 2\Тема2\Тема2\bin\Debug\Тема2.pdb
+H:\УП\Тема 2\Тема2\Тема2\obj\Debug\Тема2.csproj.AssemblyReference.cache
+H:\УП\Тема 2\Тема2\Тема2\obj\Debug\Тема2.Properties.Resources.resources
+H:\УП\Тема 2\Тема2\Тема2\obj\Debug\Тема2.csproj.GenerateResource.cache
+H:\УП\Тема 2\Тема2\Тема2\obj\Debug\Тема2.csproj.CoreCompileInputs.cache
+H:\УП\Тема 2\Тема2\Тема2\obj\Debug\Тема2.exe
+H:\УП\Тема 2\Тема2\Тема2\obj\Debug\Тема2.pdb
+H:\УП\Тема 2\Тема2\Тема2\obj\Debug\Тема2.exe.config

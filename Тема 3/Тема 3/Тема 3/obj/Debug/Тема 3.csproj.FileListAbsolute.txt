@@ -1,0 +1,12 @@
+H:\УП\Тема 3\Тема 3\Тема 3\obj\Debug\Тема 3.csproj.AssemblyReference.cache
+H:\УП\Тема 3\Тема 3\Тема 3\obj\Debug\Theme3_Var23.Form1.resources
+H:\УП\Тема 3\Тема 3\Тема 3\obj\Debug\Theme3_Var23.FormSettings.resources
+H:\УП\Тема 3\Тема 3\Тема 3\obj\Debug\Тема_3.Properties.Resources.resources
+H:\УП\Тема 3\Тема 3\Тема 3\obj\Debug\Тема 3.csproj.GenerateResource.cache
+H:\УП\Тема 3\Тема 3\Тема 3\obj\Debug\Тема 3.csproj.CoreCompileInputs.cache
+H:\УП\Тема 3\Тема 3\Тема 3\bin\Debug\Тема 3.exe.config
+H:\УП\Тема 3\Тема 3\Тема 3\bin\Debug\Тема 3.exe
+H:\УП\Тема 3\Тема 3\Тема 3\bin\Debug\Тема 3.pdb
+H:\УП\Тема 3\Тема 3\Тема 3\obj\Debug\Тема 3.exe
+H:\УП\Тема 3\Тема 3\Тема 3\obj\Debug\Тема 3.pdb
+H:\УП\Тема 3\Тема 3\Тема 3\obj\Debug\Тема 3.exe.config

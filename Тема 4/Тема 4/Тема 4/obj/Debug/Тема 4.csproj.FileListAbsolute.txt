@@ -1,0 +1,11 @@
+H:\УП\Тема 4\Тема 4\Тема 4\bin\Debug\Тема 4.exe.config
+H:\УП\Тема 4\Тема 4\Тема 4\bin\Debug\Тема 4.exe
+H:\УП\Тема 4\Тема 4\Тема 4\bin\Debug\Тема 4.pdb
+H:\УП\Тема 4\Тема 4\Тема 4\obj\Debug\Тема 4.csproj.AssemblyReference.cache
+H:\УП\Тема 4\Тема 4\Тема 4\obj\Debug\Тема_4.Form1.resources
+H:\УП\Тема 4\Тема 4\Тема 4\obj\Debug\Тема_4.Properties.Resources.resources
+H:\УП\Тема 4\Тема 4\Тема 4\obj\Debug\Тема 4.csproj.GenerateResource.cache
+H:\УП\Тема 4\Тема 4\Тема 4\obj\Debug\Тема 4.csproj.CoreCompileInputs.cache
+H:\УП\Тема 4\Тема 4\Тема 4\obj\Debug\Тема 4.exe
+H:\УП\Тема 4\Тема 4\Тема 4\obj\Debug\Тема 4.pdb
+H:\УП\Тема 4\Тема 4\Тема 4\obj\Debug\Тема 4.exe.config
