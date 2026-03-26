@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C358539A-847A-415A-96DE-6303AF0314B6}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0442\u0435\u043C\u0430 5\\\u0442\u0435\u043C\u0430 5\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C358539A-847A-415A-96DE-6303AF0314B6}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F631D9-705C-44D0-8763-CBB614C27C63}|SlovarLib\\SlovarLib.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0442\u0435\u043C\u0430 5\\\u0442\u0435\u043C\u0430 5\\slovarlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F631D9-705C-44D0-8763-CBB614C27C63}|SlovarLib\\SlovarLib.csproj|solutionrelative:slovarlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9D3184-EBE0-4C7B-B0B4-287B31BEF744}|\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0442\u0435\u043C\u0430 5\\\u0442\u0435\u043C\u0430 5\\\u0442\u0435\u043C\u0430 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D9D3184-EBE0-4C7B-B0B4-287B31BEF744}|\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5.csproj|solutionrelative:\u0442\u0435\u043C\u0430 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9D3184-EBE0-4C7B-B0B4-287B31BEF744}|\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0442\u0435\u043C\u0430 5\\\u0442\u0435\u043C\u0430 5\\\u0442\u0435\u043C\u0430 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9D3184-EBE0-4C7B-B0B4-287B31BEF744}|\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5.csproj|solutionrelative:\u0442\u0435\u043C\u0430 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9D3184-EBE0-4C7B-B0B4-287B31BEF744}|\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0442\u0435\u043C\u0430 5\\\u0442\u0435\u043C\u0430 5\\\u0442\u0435\u043C\u0430 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9D3184-EBE0-4C7B-B0B4-287B31BEF744}|\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5.csproj|solutionrelative:\u0442\u0435\u043C\u0430 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\Program.cs",
+              "RelativeDocumentMoniker": "\u0422\u0435\u043C\u0430 5\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\Program.cs",
+              "RelativeToolTip": "\u0422\u0435\u043C\u0430 5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:29:47.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:14:46.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\SlovarLib\\Class1.cs",
+              "RelativeDocumentMoniker": "SlovarLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\SlovarLib\\Class1.cs",
+              "RelativeToolTip": "SlovarLib\\Class1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAkwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:13:29.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0422\u0435\u043C\u0430 5\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\Form1.cs",
+              "RelativeToolTip": "\u0422\u0435\u043C\u0430 5\\Form1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswHsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:11:55.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0422\u0435\u043C\u0430 5\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\\u0422\u0435\u043C\u0430 5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0422\u0435\u043C\u0430 5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:11:49.899Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

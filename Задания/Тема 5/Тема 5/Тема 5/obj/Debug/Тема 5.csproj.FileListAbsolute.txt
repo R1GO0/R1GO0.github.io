@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\bin\Debug\Тема 5.exe.config
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\bin\Debug\Тема 5.exe
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\bin\Debug\Тема 5.pdb
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\obj\Debug\Тема 5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\obj\Debug\Тема_5.Properties.Resources.resources
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\obj\Debug\Тема 5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\obj\Debug\Тема 5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\obj\Debug\Тема 5.exe
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\obj\Debug\Тема 5.pdb
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\obj\Debug\Тема 5.exe.config
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\obj\Debug\Theme5_Var3.Form1.resources
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\bin\Debug\SlovarLib.dll
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\bin\Debug\SlovarLib.pdb
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\Тема 5\obj\Debug\Тема 5.csproj.Up2Date

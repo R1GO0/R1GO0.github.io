@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\SlovarLib\bin\Debug\SlovarLib.dll
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\SlovarLib\bin\Debug\SlovarLib.pdb
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\SlovarLib\obj\Debug\SlovarLib.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\SlovarLib\obj\Debug\SlovarLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\SlovarLib\obj\Debug\SlovarLib.dll
+C:\Users\User\Desktop\практика\Задания\Тема 5\Тема 5\SlovarLib\obj\Debug\SlovarLib.pdb
