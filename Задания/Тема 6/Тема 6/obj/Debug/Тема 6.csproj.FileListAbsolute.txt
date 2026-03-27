@@ -1,0 +1,13 @@
+H:\УП\Задания\Тема 6\Тема 6\obj\Debug\Тема 6.csproj.AssemblyReference.cache
+H:\УП\Задания\Тема 6\Тема 6\obj\Debug\SPB_Quiz.Form1.resources
+H:\УП\Задания\Тема 6\Тема 6\obj\Debug\Тема_6.Properties.Resources.resources
+H:\УП\Задания\Тема 6\Тема 6\obj\Debug\Тема 6.csproj.GenerateResource.cache
+H:\УП\Задания\Тема 6\Тема 6\obj\Debug\Тема 6.csproj.CoreCompileInputs.cache
+H:\УП\Задания\Тема 6\Тема 6\bin\Debug\Тема 6.exe.config
+H:\УП\Задания\Тема 6\Тема 6\bin\Debug\Тема 6.exe
+H:\УП\Задания\Тема 6\Тема 6\bin\Debug\Тема 6.pdb
+H:\УП\Задания\Тема 6\Тема 6\obj\Debug\SPB_Quiz.Admin.resources
+H:\УП\Задания\Тема 6\Тема 6\obj\Debug\SPB_Quiz.GameForm.resources
+H:\УП\Задания\Тема 6\Тема 6\obj\Debug\Тема 6.exe
+H:\УП\Задания\Тема 6\Тема 6\obj\Debug\Тема 6.pdb
+H:\УП\Задания\Тема 6\Тема 6\obj\Debug\Тема 6.exe.config

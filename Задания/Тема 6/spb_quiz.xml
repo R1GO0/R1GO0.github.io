@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quiz title="Памятники и дворцы Санкт-Петербурга">
+  <Topic name="Дворцы и усадьбы">
+    <Level id="1" difficulty="Легкий">
+      <Question text="Как называется этот дворец?" image="images/winter_palace.jpg" hint="Зимняя резиденция российских императоров. Главный музей города.">
+        <Answer right="yes">Зимний дворец</Answer>
+        <Answer right="no">Мраморный дворец</Answer>
+        <Answer right="no">Строгановский дворец</Answer>
+        <Answer right="no">Юсуповский дворец</Answer>
+      </Question>
+      <Question text="Кто является архитектором этого здания?" image="images/kunstkamera.jpg" hint="Первый музей России, основанный Петром I. Здание с башней-армиллярной сферой.">
+        <Answer right="yes">Георг Маттарнови (при участии Земцова)</Answer>
+        <Answer right="no">Бартоломео Растрелли</Answer>
+        <Answer right="no">Карл Росси</Answer>
+        <Answer right="no">Джакомо Кваренги</Answer>
+      </Question>
+    </Level>
+    <Level id="2" difficulty="Средний">
+      <Question text="Где расположен этот памятник?" image="images/bronze_horseman.jpg" hint="Памятник Петру I на Сенатской площади. Символ города.">
+        <Answer right="yes">Сенатская площадь</Answer>
+        <Answer right="no">Дворцовая площадь</Answer>
+        <Answer right="no">Исаакиевская площадь</Answer>
+        <Answer right="no">Марсово поле</Answer>
+      </Question>
+    </Level>
+  </Topic>
+  <Topic name="Мосты Северной столицы">
+    <Level id="1" difficulty="Легкий">
+      <Question text="Как называется этот разводной мост?" image="images/palace_bridge.jpg" hint="Один из самых известных мостов, расположен рядом с Эрмитажем.">
+        <Answer right="yes">Дворцовый мост</Answer>
+        <Answer right="no">Троицкий мост</Answer>
+        <Answer right="no">Аничков мост</Answer>
+        <Answer right="no">Благовещенский мост</Answer>
+      </Question>
+    </Level>
+  </Topic>
+</Quiz>
