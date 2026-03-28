@@ -30,7 +30,6 @@
         {
             this.lblQuestion = new System.Windows.Forms.Label();
             this.pictureBox = new System.Windows.Forms.PictureBox();
-            this.lblHintCaption = new System.Windows.Forms.Label();
             this.lblHint = new System.Windows.Forms.Label();
             this.lblAnswer = new System.Windows.Forms.Label();
             this.cmbAnswers = new System.Windows.Forms.ComboBox();
@@ -53,38 +52,28 @@
             // 
             // pictureBox
             // 
-            this.pictureBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox.Location = new System.Drawing.Point(262, 55);
             this.pictureBox.Name = "pictureBox";
-            this.pictureBox.Size = new System.Drawing.Size(310, 164);
+            this.pictureBox.Size = new System.Drawing.Size(310, 183);
             this.pictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox.TabIndex = 1;
             this.pictureBox.TabStop = false;
             // 
-            // lblHintCaption
-            // 
-            this.lblHintCaption.AutoSize = true;
-            this.lblHintCaption.Location = new System.Drawing.Point(274, 222);
-            this.lblHintCaption.Name = "lblHintCaption";
-            this.lblHintCaption.Size = new System.Drawing.Size(69, 13);
-            this.lblHintCaption.TabIndex = 2;
-            this.lblHintCaption.Text = "Подсказка: ";
-            this.lblHintCaption.Visible = false;
-            // 
             // lblHint
             // 
             this.lblHint.ForeColor = System.Drawing.Color.Blue;
-            this.lblHint.Location = new System.Drawing.Point(340, 222);
+            this.lblHint.Location = new System.Drawing.Point(315, 247);
             this.lblHint.Name = "lblHint";
             this.lblHint.Size = new System.Drawing.Size(215, 56);
             this.lblHint.TabIndex = 3;
             this.lblHint.Text = "...";
+            this.lblHint.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblHint.Visible = false;
             // 
             // lblAnswer
             // 
             this.lblAnswer.AutoSize = true;
-            this.lblAnswer.Location = new System.Drawing.Point(246, 284);
+            this.lblAnswer.Location = new System.Drawing.Point(246, 315);
             this.lblAnswer.Name = "lblAnswer";
             this.lblAnswer.Size = new System.Drawing.Size(91, 13);
             this.lblAnswer.TabIndex = 4;
@@ -94,7 +83,7 @@
             // 
             this.cmbAnswers.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbAnswers.FormattingEnabled = true;
-            this.cmbAnswers.Location = new System.Drawing.Point(343, 281);
+            this.cmbAnswers.Location = new System.Drawing.Point(343, 312);
             this.cmbAnswers.Name = "cmbAnswers";
             this.cmbAnswers.Size = new System.Drawing.Size(249, 21);
             this.cmbAnswers.TabIndex = 5;
@@ -102,7 +91,7 @@
             // 
             // btnCheck
             // 
-            this.btnCheck.Location = new System.Drawing.Point(277, 313);
+            this.btnCheck.Location = new System.Drawing.Point(277, 344);
             this.btnCheck.Name = "btnCheck";
             this.btnCheck.Size = new System.Drawing.Size(278, 23);
             this.btnCheck.TabIndex = 6;
@@ -112,7 +101,7 @@
             // 
             // btnShowHint
             // 
-            this.btnShowHint.Location = new System.Drawing.Point(578, 216);
+            this.btnShowHint.Location = new System.Drawing.Point(578, 247);
             this.btnShowHint.Name = "btnShowHint";
             this.btnShowHint.Size = new System.Drawing.Size(133, 23);
             this.btnShowHint.TabIndex = 7;
@@ -122,7 +111,7 @@
             // 
             // btnNext
             // 
-            this.btnNext.Location = new System.Drawing.Point(381, 384);
+            this.btnNext.Location = new System.Drawing.Point(381, 415);
             this.btnNext.Name = "btnNext";
             this.btnNext.Size = new System.Drawing.Size(75, 23);
             this.btnNext.TabIndex = 8;
@@ -132,10 +121,9 @@
             // 
             // lblStatus
             // 
-            this.lblStatus.AutoSize = true;
-            this.lblStatus.Location = new System.Drawing.Point(419, 355);
+            this.lblStatus.Location = new System.Drawing.Point(340, 370);
             this.lblStatus.Name = "lblStatus";
-            this.lblStatus.Size = new System.Drawing.Size(0, 13);
+            this.lblStatus.Size = new System.Drawing.Size(157, 42);
             this.lblStatus.TabIndex = 10;
             this.lblStatus.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -151,7 +139,6 @@
             this.Controls.Add(this.cmbAnswers);
             this.Controls.Add(this.lblAnswer);
             this.Controls.Add(this.lblHint);
-            this.Controls.Add(this.lblHintCaption);
             this.Controls.Add(this.pictureBox);
             this.Controls.Add(this.lblQuestion);
             this.Name = "GameForm";
@@ -166,7 +153,6 @@
 
         private System.Windows.Forms.Label lblQuestion;
         private System.Windows.Forms.PictureBox pictureBox;
-        private System.Windows.Forms.Label lblHintCaption;
         private System.Windows.Forms.Label lblHint;
         private System.Windows.Forms.Label lblAnswer;
         private System.Windows.Forms.ComboBox cmbAnswers;

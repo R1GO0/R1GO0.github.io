@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Quiz title="Памятники и дворцы Санкт-Петербурга">
-  <Topic name="Дворцы и усадьбы">
+  <Topic name="Памятники, мосты, дворцы Санкт-Петербурга">
     <Level id="1" difficulty="Легкий">
       <Question text="Как называется этот дворец?" image="images/winter_palace.jpg" hint="Зимняя резиденция российских императоров. Главный музей города.">
         <Answer right="yes">Зимний дворец</Answer>
@@ -31,9 +31,7 @@
         <Answer right="no">Фёдору Михайловичу Достоевскому</Answer>
       </Question>
     </Level>
-  </Topic>
-  <Topic name="Мосты Северной столицы">
-    <Level id="1" difficulty="Легкий">
+    <Level id="3" difficulty="Сложный">
       <Question text="Как называется этот разводной мост?" image="images/palace_bridge.jpg" hint="Один из самых известных мостов, расположен рядом с Эрмитажем.">
         <Answer right="yes">Дворцовый мост</Answer>
         <Answer right="no">Троицкий мост</Answer>

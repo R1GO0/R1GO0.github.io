@@ -24,10 +24,44 @@ namespace SPB_Quiz
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-            int currentLevel = (int)numLevel.Value;
-            if (cmbTopic.SelectedItem == null) return;
-            currentTopic = cmbTopic.SelectedItem.ToString();
-            StartLevel(currentLevel);
+            if (cmbTopic.SelectedItem == null)
+            {
+                MessageBox.Show("Выберите тему!");
+                return;
+            }
+
+            string topic = cmbTopic.SelectedItem.ToString();
+            int level = (int)numLevel.Value;
+            while (true)
+            {
+                using (var gameForm = new GameForm(dataManager, topic, level))
+                {
+                    DialogResult result = gameForm.ShowDialog();
+
+                    if (result == DialogResult.OK)
+                    {
+                        int nextLevel = level + 1;
+
+                        if (dataManager.HasNextLevel(topic, level))
+                        {
+                            level = nextLevel;
+                            continue;
+                        }
+                        else
+                        {
+                            break; 
+                        }
+                    }
+                    else if (result == DialogResult.Retry)
+                    {
+                        continue;
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+            }
         }
 
         private void StartLevel(int level)

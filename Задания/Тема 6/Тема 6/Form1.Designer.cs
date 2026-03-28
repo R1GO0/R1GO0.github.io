@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.lblTitle = new System.Windows.Forms.Label();
-            this.lblTopic = new System.Windows.Forms.Label();
-            this.cmbTopic = new System.Windows.Forms.ComboBox();
             this.lblLevel = new System.Windows.Forms.Label();
             this.numLevel = new System.Windows.Forms.NumericUpDown();
             this.btnStart = new System.Windows.Forms.Button();
             this.btnAdmin = new System.Windows.Forms.Button();
+            this.lblTopic = new System.Windows.Forms.Label();
+            this.cmbTopic = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.numLevel)).BeginInit();
             this.SuspendLayout();
             // 
@@ -47,24 +47,6 @@
             this.lblTitle.Size = new System.Drawing.Size(303, 17);
             this.lblTitle.TabIndex = 0;
             this.lblTitle.Text = "Викторина: памятники, дворцы и мосты СПб";
-            // 
-            // lblTopic
-            // 
-            this.lblTopic.AutoSize = true;
-            this.lblTopic.Location = new System.Drawing.Point(290, 182);
-            this.lblTopic.Name = "lblTopic";
-            this.lblTopic.Size = new System.Drawing.Size(87, 13);
-            this.lblTopic.TabIndex = 1;
-            this.lblTopic.Text = "Выберите тему:";
-            // 
-            // cmbTopic
-            // 
-            this.cmbTopic.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbTopic.FormattingEnabled = true;
-            this.cmbTopic.Location = new System.Drawing.Point(383, 179);
-            this.cmbTopic.Name = "cmbTopic";
-            this.cmbTopic.Size = new System.Drawing.Size(142, 21);
-            this.cmbTopic.TabIndex = 2;
             // 
             // lblLevel
             // 
@@ -117,6 +99,24 @@
             this.btnAdmin.UseVisualStyleBackColor = true;
             this.btnAdmin.Click += new System.EventHandler(this.btnAdmin_Click);
             // 
+            // lblTopic
+            // 
+            this.lblTopic.AutoSize = true;
+            this.lblTopic.Location = new System.Drawing.Point(215, 179);
+            this.lblTopic.Name = "lblTopic";
+            this.lblTopic.Size = new System.Drawing.Size(87, 13);
+            this.lblTopic.TabIndex = 1;
+            this.lblTopic.Text = "Выберите тему:";
+            // 
+            // cmbTopic
+            // 
+            this.cmbTopic.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbTopic.FormattingEnabled = true;
+            this.cmbTopic.Location = new System.Drawing.Point(308, 176);
+            this.cmbTopic.Name = "cmbTopic";
+            this.cmbTopic.Size = new System.Drawing.Size(280, 21);
+            this.cmbTopic.TabIndex = 2;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -140,12 +140,12 @@
         #endregion
 
         private System.Windows.Forms.Label lblTitle;
-        private System.Windows.Forms.Label lblTopic;
-        private System.Windows.Forms.ComboBox cmbTopic;
         private System.Windows.Forms.Label lblLevel;
         private System.Windows.Forms.NumericUpDown numLevel;
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.Button btnAdmin;
+        private System.Windows.Forms.Label lblTopic;
+        private System.Windows.Forms.ComboBox cmbTopic;
     }
 }
 
