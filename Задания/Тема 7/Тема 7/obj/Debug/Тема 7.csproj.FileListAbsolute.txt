@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\obj\Debug\Тема 7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\obj\Debug\Тема_7.Form1.resources
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\obj\Debug\Тема_7.Properties.Resources.resources
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\obj\Debug\Тема 7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\obj\Debug\Тема 7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\bin\Debug\Тема 7.exe.config
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\bin\Debug\Тема 7.exe
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\bin\Debug\Тема 7.pdb
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\obj\Debug\Тема 7.exe
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\obj\Debug\Тема 7.pdb
+C:\Users\User\Desktop\практика\Задания\Тема 7\Тема 7\obj\Debug\Тема 7.exe.config
