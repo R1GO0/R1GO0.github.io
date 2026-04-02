@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\bin\Debug\Тема 8.exe.config
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\bin\Debug\Тема 8.exe
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\bin\Debug\Тема 8.pdb
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема 8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема_8.Form1.resources
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема_8.HistoryForm.resources
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема_8.LoginForm.resources
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема_8.Properties.Resources.resources
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема_8.SettingsForm.resources
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема 8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема 8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема 8.exe
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема 8.pdb
+C:\Users\User\Desktop\практика\Задания\Тема 8\Тема 8\obj\Debug\Тема 8.exe.config
